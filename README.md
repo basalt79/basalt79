@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=basalt79&show_icons=true&count_private=true&theme=dark)
-
+-->
 <!--
 **basalt79/basalt79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
